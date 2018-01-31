@@ -1,1 +1,35 @@
 /* Style your calculator */
+
+
+body {
+    color: pink;
+    margin: 0;
+    padding: 5em 0 2em;
+    text-align: center;
+  }
+  */
+  h1 {
+    font-weight: 300;
+    margin: 0;
+  }
+  
+  
+  .calculator {
+    font-size: 28px;
+    margin: 0 auto;
+    width: 10em;
+  
+  }
+  .button {
+    border: 0;
+    background: rgba(42,50,113, .28);
+    color: #6cacc5;
+    cursor: pointer;
+    float: left;
+    font: inherit;
+    margin: 0.25em;
+    width: 2em;
+    height: 2em;
+    transition: all 0.5s;
+    
+  }
